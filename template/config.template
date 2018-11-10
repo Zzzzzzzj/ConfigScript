@@ -1,0 +1,12 @@
+import com.sh.common.config.AbstractConfigData;
+import lombok.Getter;
+import lombok.Setter;
+
+
+@Getter
+@Setter
+public class {configName} extends AbstractConfigData{
+
+	{content}
+
+}
